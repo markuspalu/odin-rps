@@ -39,14 +39,14 @@ scorecontainer.appendChild(pscoreDiv);
 const pEmojiDiv = document.createElement('pEmojiDiv');
 pEmojiDiv.classList.add('pEmojiDiv');
 pEmojiDiv.setAttribute("style", "font-size: 120px; text-align: center");
-pEmojiDiv.textContent = "";
+pEmojiDiv.textContent = "❓";
 emojicontainer.appendChild(pEmojiDiv);
 
 // ComputerEmoji
 const cEmojiDiv = document.createElement('cEmojiDiv');
 cEmojiDiv.classList.add('pEmojiDiv');
 cEmojiDiv.setAttribute("style", "font-size: 120px; text-align: center");
-cEmojiDiv.textContent = "";
+cEmojiDiv.textContent = "❓";
 emojicontainer.appendChild(cEmojiDiv);
 
 // ComputerScore
