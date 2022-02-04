@@ -1,1 +1,1 @@
-Rock Paper Scissors game, using JS only at first, later adding a graphical interface.
+Rock Paper Scissors game, using HTML/CSS and JS.
